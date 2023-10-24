@@ -6,7 +6,7 @@ This project is designed to classify breast cancer tumors into two categories: b
 
 **Table of Contents**
 
-- [Dependencies](#dependencies)
+- [Dependencies](#Dependencies)
 - [Data Collection & Processing](#data-collection--processing)
 - [Separating Features and Target](#separating-features-and-target)
 - [Splitting the Data](#splitting-the-data)
