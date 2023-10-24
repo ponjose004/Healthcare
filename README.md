@@ -17,6 +17,7 @@ This project is designed to classify breast cancer tumors into two categories: b
 - [Making Predictions](#making-predictions)
 - [Building a Predictive System](#building-a-predictive-system)
 
+
 **Dependencies**
 
 To create and execute this project, we rely on several Python libraries and frameworks:
